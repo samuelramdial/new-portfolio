@@ -14,7 +14,7 @@ export const AboutSection = () => {
                     <p className = "text-muted-foreground">I'm passionate about creating elegant solutions to complex problems, and I'm constantly learning new technologies and techniques to stay at the forefront of the ever-evolving web landscape. Whether I'm building full-stack applications with React, Flask, and PostgreSQL or collaborating with peers and mentors on scalable backend systems, I approach each project with intention and a focus on impact. With experience leading in both academic and community spaces — from serving as a Resident Advisor to helping charter Lambda Phi Epsilon at UNC Charlotte — I blend technical ability with real-world collaboration to deliver work that’s both meaningful and well-engineered.</p>
                     <div className = "flex flex-col sm: flex-row gap-4 pt-4 justify-center">
                         <a href = "#contact" className="cosmic-button">Get In Touch</a>
-                        <a href = "" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+                        <a href = "https://www.linkedin.com/in/samuel-ramdial/overlay/1752997350507/single-media-viewer/?profileId=ACoAADLranIBfCsRHXtYC_WiMf8lxKGBqHkP2os" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                             Download CV
                         </a>
                     </div>
